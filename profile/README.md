@@ -7,7 +7,7 @@ Our projects don't start with the usual question, *"What problem are we trying t
 > **Credit where it's due:** Our work builds on projects created by talented developers and maintainers. We respect their contributions and encourage everyone to support the upstream projects that inspire ours.
 
 
-## How We Work 💼
+## 💼 How We Work 
 
 We lean heavily on AI-assisted development to experiment, challenge assumptions, and bring ambitious ideas to life. Much of the code you see here is AI-generated, with a human developer in the loop, reviewing results, and keeping things on track.
 
@@ -16,14 +16,14 @@ Our projects are experimental by nature. We strive to make our software useful, 
 We take care not to knowingly release software that could damage your printer, but **our projects are provided as-is and used at your own risk.**
 
 
-## Projects 📁
+## 📁 Projects 
 
 * **Rusticc**: A custom distribution of the Open Centauris Cosmos ecosystem.
 * **Kaliru**: A fresh take on Kalico and Klipper, exploring performance and efficiency.
 * **Moonruster**: A Rust-based API server inspired by Moonraker.
 
 
-## How to Contribute 👨‍💻
+## 👨‍💻 How to Contribute 
 
 Have an idea? Open an issue describing what you'd like to improve or explore, and we'll take it from there.<br>
 Prefer to get hands-on? Fork a project, define a clear goal, and open a pull request when you're ready.
@@ -31,7 +31,7 @@ Prefer to get hands-on? Fork a project, define a clear goal, and open a pull req
 We review contributions as time allows. Clear explanations and evidence of your results are always required.
 
 
-## Development Workflow 🔧
+## 🔧 Development Workflow 
 
 We value curiosity, but experimentation works best when it's methodical. Before changing existing software, understand why it works the way it does. Every change should have a clear purpose, a testable hypothesis, and evidence to support its results.
 
@@ -50,7 +50,7 @@ We value curiosity, but experimentation works best when it's methodical. Before 
 The goal isn't just to make something work. It's to demonstrate that it works, understand its trade-offs, and avoid creating more problems than we solve.
 
 
-## Working with AI Agents 🤖
+## 🤖 Working with AI Agents 
 
 AI-assisted contributions are welcome, provided they produce clean, tangible results and follow this workflow from start to finish. For best results, provide our development workflow to your agent verbatim. <br>
 
